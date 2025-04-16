@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "SE8UX94CL7.com.swisssign.wallet",
+        "paths": [ "/websic/sign/wallet-app*" ]
+      }
+    ]
+  }
+}
